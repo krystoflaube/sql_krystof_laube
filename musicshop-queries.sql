@@ -1,4 +1,4 @@
-/*1. Procedure to quickly display all the tables of the database:*/
+/*1. Procedure to display all the tables of the database:*/
 create proc overview
 as
 select * from products.albums
